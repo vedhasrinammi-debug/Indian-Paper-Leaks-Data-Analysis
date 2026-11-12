@@ -1,1 +1,8 @@
+# Data loading, filtering, cleaning and aggregation
+pandas
 
+# Numerical calculations
+numpy
+
+# Data visualization
+matplotlib
